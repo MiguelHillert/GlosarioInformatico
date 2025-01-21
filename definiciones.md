@@ -126,4 +126,4 @@ Profesional que combina prácticas de desarrollo de software y operaciones IT, e
 
 ---
 
-*Este glosario proporciona una base sólida para comprender conceptos fundamentales de infraestructura IT. Para información más detallada, consulte la documentación oficial de cada tecnología.*
+
