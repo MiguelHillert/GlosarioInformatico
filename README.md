@@ -1,7 +1,7 @@
 # GlosarioInformatico
 
 
-glossary-icon.png
+![Inicio](img/glossary-icon.png)
 
 
 ### 1. [Definiciones](definiciones.md)
