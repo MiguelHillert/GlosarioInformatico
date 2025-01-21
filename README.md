@@ -1,1 +1,1 @@
-# GlosarioInform-tico
+### GlosarioInformatico
