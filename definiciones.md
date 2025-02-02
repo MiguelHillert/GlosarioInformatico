@@ -40,8 +40,7 @@ Dirección completa que indica dónde encontrar algo en internet o en una red lo
 ### 🚪 Puerto (21, 22, 80, 443)
 Número que indica qué programa o servicio debe recibir la información en un ordenador.
 
-Ejemplos:
-
+**Ejemplos:**
 - Puerto 21 : 192.168.1.10:21 (FTP)
 - Puerto 22 : 192.168.1.10:22 (SSH)
 - Puerto 80 : 192.168.1.10:80 (HTTP)
