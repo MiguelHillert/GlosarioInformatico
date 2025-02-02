@@ -37,12 +37,15 @@ Dirección completa que indica dónde encontrar algo en internet o en una red lo
 - interno/documentos
 - sistema/usuarios
 
-### 🚪 Puerto
+### 🚪 Puerto (21, 22, 80, 443)
 Número que indica qué programa o servicio debe recibir la información en un ordenador.
 
-**Ejemplos:**
-- 192.168.1.10:80 (página web)
-- 192.168.1.10:21 (transferencia de archivos)
+Ejemplos:
+
+- Puerto 21 : 192.168.1.10:21 (FTP)
+- Puerto 22 : 192.168.1.10:22 (SSH)
+- Puerto 80 : 192.168.1.10:80 (HTTP)
+- Puerto 443 : 192.168.1.10:443 (HTTPS)
 
 ### 🔒 Diferencia entre HTTP y HTTPS
 HTTP es como enviar una postal (cualquiera puede leer el mensaje), HTTPS es como enviar una carta en un sobre sellado (el mensaje va protegido).
